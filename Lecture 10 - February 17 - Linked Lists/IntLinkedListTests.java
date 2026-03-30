@@ -34,7 +34,7 @@ public class IntLinkedListTests {
         newList.append(9);
         newList.append(67);
         newList.append(18);
-        
+
         it = newList.getIterator();
 
         while (it.hasNext()) {
